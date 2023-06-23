@@ -1,6 +1,6 @@
 # mathematical-game-website
 
-## **Documentación en español** 
+## >_ **Documentación en español** 
 
 
 
