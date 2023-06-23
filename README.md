@@ -1,4 +1,4 @@
-# juego-matematico-website
+# mathematical-game-website
 
 ## **Documentación en español** 
 
